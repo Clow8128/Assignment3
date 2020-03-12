@@ -1,3 +1,7 @@
 Cameron Low
 Assignment 3
 Continuous Integration
+
+To start up the project double click on the visual studio icon and open using visual studio 2019
+Once in visual studio start the api by clicking on the IIS Express green arrow at the top
+To test and use the api use postman to symulate api calls and requests
