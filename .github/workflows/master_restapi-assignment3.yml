@@ -32,5 +32,4 @@ jobs:
         app-name: 'restapi-assignment3'
         slot-name: 'production'
         publish-profile: ${{ secrets.AzureAppService_PublishProfile_5a605dc157bd4c20a25e2160b2492b16 }}
-        package: ${{env.DOTNET_ROOT}}/myapp
-        :  
+        package: ${{env.DOTNET_ROOT}}/myapp  
