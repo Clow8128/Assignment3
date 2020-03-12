@@ -13199,11 +13199,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\15195\\Desktop\\Distributed Applications\\RESTAPI\\RESTAPI\\RESTAPI.csproj",
+      "projectUniqueName": "C:\\Users\\15195\\Desktop\\Assignment3\\RESTAPI\\RESTAPI\\RESTAPI.csproj",
       "projectName": "RESTAPI",
-      "projectPath": "C:\\Users\\15195\\Desktop\\Distributed Applications\\RESTAPI\\RESTAPI\\RESTAPI.csproj",
+      "projectPath": "C:\\Users\\15195\\Desktop\\Assignment3\\RESTAPI\\RESTAPI\\RESTAPI.csproj",
       "packagesPath": "C:\\Users\\15195\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\15195\\Desktop\\Distributed Applications\\RESTAPI\\RESTAPI\\obj\\",
+      "outputPath": "C:\\Users\\15195\\Desktop\\Assignment3\\RESTAPI\\RESTAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -13278,10 +13278,16 @@
           }
         },
         "imports": [
-          "net461"
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
         ],
         "assetTargetFallback": true,
-        "warn": true
+        "warn": true,
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

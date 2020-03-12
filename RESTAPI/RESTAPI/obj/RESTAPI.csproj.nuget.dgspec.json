@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\15195\\Desktop\\Distributed Applications\\RESTAPI\\RESTAPI\\RESTAPI.csproj": {}
+    "C:\\Users\\15195\\Desktop\\Assignment3\\RESTAPI\\RESTAPI\\RESTAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\15195\\Desktop\\Distributed Applications\\RESTAPI\\RESTAPI\\RESTAPI.csproj": {
+    "C:\\Users\\15195\\Desktop\\Assignment3\\RESTAPI\\RESTAPI\\RESTAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\15195\\Desktop\\Distributed Applications\\RESTAPI\\RESTAPI\\RESTAPI.csproj",
+        "projectUniqueName": "C:\\Users\\15195\\Desktop\\Assignment3\\RESTAPI\\RESTAPI\\RESTAPI.csproj",
         "projectName": "RESTAPI",
-        "projectPath": "C:\\Users\\15195\\Desktop\\Distributed Applications\\RESTAPI\\RESTAPI\\RESTAPI.csproj",
+        "projectPath": "C:\\Users\\15195\\Desktop\\Assignment3\\RESTAPI\\RESTAPI\\RESTAPI.csproj",
         "packagesPath": "C:\\Users\\15195\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\15195\\Desktop\\Distributed Applications\\RESTAPI\\RESTAPI\\obj\\",
+        "outputPath": "C:\\Users\\15195\\Desktop\\Assignment3\\RESTAPI\\RESTAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
